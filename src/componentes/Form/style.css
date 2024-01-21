@@ -1,0 +1,47 @@
+.container-topo-form div{
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.container-topo-form div h2{
+    padding-bottom: 20px;
+}
+.container-topo-form div p{
+    width: 450px;
+    padding-bottom: 20px;
+}
+form{
+    width: 800px;
+    margin: 0 auto;
+}
+form fieldset{
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+label{
+    margin-bottom: 10px;
+}
+input{
+    margin-bottom: 10px;
+    height: 30px;
+}
+form fieldset:last-of-type{
+    padding: 0 15px;
+}
+select{
+    height: 25px;
+    margin: 5px 0 20px 0;
+}
+button{
+    width: 800px;
+    height: 30px;
+    background-color: rgb(155, 9, 9);
+    color: #fff;
+    margin: 0 auto;
+    border: none;
+}
+
